@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{4378CDF7-45B3-4A77-AD3D-3543DCB25543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{5E14D17E-3213-4B65-A375-C12891482CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{E3C443C0-363F-4C34-AEA1-BA498BA317DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4378CDF7-45B3-4A77-AD3D-3543DCB25543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4378CDF7-45B3-4A77-AD3D-3543DCB25543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4378CDF7-45B3-4A77-AD3D-3543DCB25543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4378CDF7-45B3-4A77-AD3D-3543DCB25543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E14D17E-3213-4B65-A375-C12891482CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E14D17E-3213-4B65-A375-C12891482CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E14D17E-3213-4B65-A375-C12891482CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E14D17E-3213-4B65-A375-C12891482CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C443C0-363F-4C34-AEA1-BA498BA317DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C443C0-363F-4C34-AEA1-BA498BA317DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C443C0-363F-4C34-AEA1-BA498BA317DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C443C0-363F-4C34-AEA1-BA498BA317DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A85FD8-42B3-42D7-BBBA-D8678C8A4AB9}
+	EndGlobalSection
+EndGlobal
